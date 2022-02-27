@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustForFun020
-- 👀 I’m interested in C/C++
+- 👀 I’m interested in C/C++ and Front-End
 - 🌱 I’m currently learning Học Viện Công Nghệ Bưu Chính Viễn Thông
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
